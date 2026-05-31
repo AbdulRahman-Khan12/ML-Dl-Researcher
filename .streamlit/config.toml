@@ -1,0 +1,11 @@
+# Streamlit theme
+# This file controls the colours and fonts of the whole app.
+# I picked a calm, warm-light look with one soft blue accent so it
+# stays simple but is easy on the eyes.
+
+[theme]
+primaryColor = "#3b6ea5"          # soft blue - buttons, links, slider
+backgroundColor = "#faf9f6"       # warm off-white - main page
+secondaryBackgroundColor = "#f0eee9"  # slightly darker - sidebar & cards
+textColor = "#2b2b2b"             # soft black - easier than pure black
+font = "sans serif"
