@@ -19,9 +19,7 @@ That "search → summarise → reflect → search again" loop is what makes it a
 
 You type a topic in the box, choose how deep you want it to go, and it produces formatted study notes you can download.
 
-> _(Tip: record a short screen GIF of the app running and drop it here — a visible demo goes a long way.)_
 
----
 
 ## 🙌 Honest credit (please read)
 
